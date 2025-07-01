@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahima-jayshri/mahima-jayshri/main/banner.png" alt="Mahima Jayshri Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mahima Jayshri</h1>
 <h3 align="center">💡 AI-driven Software Engineer from India | Python • Java • Web</h3>
 
